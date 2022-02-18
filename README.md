@@ -32,6 +32,6 @@
 
 > As usual, download the repo, extract it & Add the .ipynb file into your Google Drive and open it as a Google Colaboratory notebook.
 
-## Add the Data to the Notebook
+## Add Data to the Notebook
 
 > The .zip file also includes a .csv file. This is the data for the project. Add this your notebook.
